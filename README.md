@@ -1,4 +1,4 @@
-# This repository contains two Excel projects designed to automate data processing, generate KPIs, and provide actionable insights efficiently. Both projects leverage advanced Excel capabilities, including complex formulas, data validation, conditional formatting, and macros, to streamline data analysis and decision-making processes. In addition to these features, the projects incorporate data modeling techniques for organizing and structuring data effectively. They also use interactive visualizations, such as dynamic charts and graphs, to represent data trends and insights visually. These Excel files are designed to enhance automation, minimize manual intervention, and provide a robust platform for in-depth data analysis and reporting, ultimately empowering users to make data-driven decisions quickly and accurately.
+# This repository includes three advanced Excel projects that automate data processing, generate KPIs, and provide actionable insights. Leveraging automation, conditional formatting, data validation, macros, user-defined functions, pivot tables, data visualization, complex formulas, and slicers, these projects are designed to enhance data analysis and decision-making efficiency.
 
 # Excel_Project 1 - (Automation & Visualization)
 ## This Excel project is designed to analyze sales and customer service data to provide valuable business insights. It consists of seven sheets, each serving a unique purpose in data analysis and visualization. Below is a brief description of each sheet:
@@ -51,3 +51,7 @@ This sheet functions as a navigation tool, allowing users to switch quickly to t
 This sheet provides a categorized list of agents by department type. It helps in segmenting and analyzing agent performance and data based on their respective departments.
 
 ##  Overall, this project is designed to streamline data analysis, automate reporting, and provide actionable insights with minimal manual intervention.
+
+
+# Excel_Project 3 - (Project_VBA)
+## This project centers on creating custom functions with VBA, developing macros to identify unique values, and retrieve file paths and sheet names from the opened file. It also applies conditional formatting to enhance data visibility.
